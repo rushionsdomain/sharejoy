@@ -1,73 +1,96 @@
-# **ShareJoy** – A Platform for Giving  
+# **ShareJoy**  
 
-## **About the Project**  
+## **Project Overview**  
 
-Welcome to **ShareJoy**, an initiative by **rushionsdomain** aimed at making charitable giving more accessible and impactful. This platform connects people with children's homes, teen mom shelters, and other charitable organizations across Kenya, allowing users to **volunteer, donate, or offer support in various ways**.  
+**ShareJoy** is a web platform dedicated to connecting people with children's homes, teen mother shelters, and charitable organizations across Kenya. Our mission is to make volunteering, donating, and supporting these homes seamless and impactful.  
 
-Whether you want to donate money, food, clothing, or volunteer your time, **ShareJoy** makes it easy to find the right cause near you.  
+This project directly aligns with the following **United Nations Sustainable Development Goals (SDGs):**  
+
+### 🌍 **SDG 1: No Poverty**  
+By enabling direct donations and volunteer opportunities, **ShareJoy** helps provide financial and material support to vulnerable children and young mothers.  
+
+### 🍽 **SDG 2: Zero Hunger**  
+Through food donations and partnerships with children's homes, **ShareJoy** ensures that underprivileged communities have access to essential nutrition.  
+
+### ❤️ **SDG 3: Good Health and Well-being**  
+The platform helps direct resources—such as medical aid, shelter, and psychological support—to children and teen mothers in need, improving overall community health.  
+
+### 📚 **SDG 4: Quality Education**  
+Education is key to breaking the cycle of poverty. **ShareJoy** connects donors with homes that provide learning resources and skill development programs.  
+
+### 🤝 **SDG 10: Reduced Inequalities**  
+By making it easier to support those in need, **ShareJoy** fosters a more inclusive society, reducing disparities in access to basic needs.  
+
+### 🏙 **SDG 11: Sustainable Cities and Communities**  
+Encouraging community involvement and sustainable charitable giving helps create stronger, more resilient communities.  
 
 ---
 
-## **Getting Started**  
+## **How to Get Started**  
 
-### **Clone & Run Locally**  
-
-If you’d like to work on this project locally, follow these steps:  
+### **Clone the Repository**  
+To work locally, clone the repo using Git:  
 
 ```sh
-# Step 1: Clone the repository
-git clone https://github.com/rushionsdomain/sharejoy.git
-
-# Step 2: Navigate to the project directory
+git clone https://github.com/rushionsdomain/sharejoy
 cd sharejoy
-
-# Step 3: Install dependencies
-npm install
-
-# Step 4: Start the development server
+npm i
 npm run dev
 ```
 
+### **Use GitHub Codespaces**  
+- Open the repository in GitHub.  
+- Click **"Code" > "Codespaces" > "New Codespace"** to launch a development environment instantly.  
+
+### **Edit Files on GitHub**  
+- Navigate to the file you want to edit.  
+- Click the **pencil icon** to make changes and commit them.  
+
 ---
 
-## **Project Stack**  
-
-This project is built using:  
-
-- **Next.js** – Fast and scalable React framework  
-- **TypeScript** – Type-safe development  
-- **Tailwind CSS** – Modern styling with utility classes  
-- **shadcn-ui** – Accessible and elegant UI components  
-- **Google Maps API** – Interactive maps for locating nearby donation centers  
+## **Technologies Used**  
+- **Next.js** (Fast and scalable React framework)  
+- **TypeScript** (For type safety and scalability)  
+- **Tailwind CSS** (For sleek and responsive UI)  
+- **shadcn-ui** (For beautiful, modern components)  
 
 ---
 
 ## **Key Features**  
 
-✅ **Find & Support Nearby Homes** – Search for children's homes and shelters near you  
-✅ **Multiple Donation Options** – Donate money, food, clothes, and more  
-✅ **MPESA Donations** – Send money easily through MPESA integration  
-✅ **AI-Powered Search** – Get personalized recommendations on where to help  
-✅ **Dark Mode & Light Mode** – Customize your viewing experience  
-✅ **Smart Navigation Chatbot** – An interactive AI guide to assist users  
+✅ **Interactive Map Integration** – Find children’s homes and donation centers near you.  
+✅ **MPESA Payment Integration** – Easily send money donations via mobile.  
+✅ **AI-Powered Chatbot** – Get guided assistance on how to donate or volunteer.  
+✅ **Dark Mode & Light Mode** – Customize the UI to match your preference.  
+✅ **Item Donation System** – Locate drop-off points for food, clothes, and other essential items.  
+✅ **AI Search & Smart Suggestions** – Discover the best ways to help based on location and interests.  
 
 ---
 
-## **How to Contribute**  
+## **How to Donate via MPESA**  
+1. Enter your **MPESA phone number**.  
+2. Input the **amount** you wish to donate.  
+3. A **prompt appears on your phone** to confirm payment.  
+4. The donation is sent directly to **0798639575**.  
 
-Interested in contributing? Feel free to **fork this repository**, make your changes, and submit a pull request!  
-
----
-
-## **Deployment**  
-
-To deploy this project, you can use **Vercel, Netlify, or GitHub Pages**. If you need help setting up deployment, check out:  
-
-- [Vercel Deployment Guide](https://vercel.com/docs)  
-- [Netlify Documentation](https://docs.netlify.com/)  
+*(No paybill required—just a simple, direct contribution to those in need!)*  
 
 ---
 
-## **Connect & Support**  
+## **Deployment & Hosting**  
 
-If you have any questions, suggestions, or would like to support this project, feel free to reach out. Let's make **giving back** easier and more accessible for everyone! ❤️  
+You can deploy **ShareJoy** using platforms like:  
+- **Vercel** (Recommended for Next.js apps)  
+- **Netlify**  
+- **GitHub Pages** (For static hosting)  
+
+---
+
+## **Join the Movement!**  
+
+Help create a **kinder world** by supporting children and young mothers. 💙  
+
+🚀 **Developed by:** [rushionsdomain](https://github.com/rushionsdomain)  
+📌 **Repo:** [ShareJoy](https://github.com/rushionsdomain/sharejoy)  
+
+Together, we **Share Joy**! 🌟✨
