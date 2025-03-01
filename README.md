@@ -1,69 +1,73 @@
-# Welcome to your Lovable project
+# **ShareJoy** – A Platform for Giving  
 
-## Project info
+## **About the Project**  
 
-**URL**: https://lovable.dev/projects/c9a7b2ad-b24e-4c8f-bb7d-e5fc68032edd
+Welcome to **ShareJoy**, an initiative by **rushionsdomain** aimed at making charitable giving more accessible and impactful. This platform connects people with children's homes, teen mom shelters, and other charitable organizations across Kenya, allowing users to **volunteer, donate, or offer support in various ways**.  
 
-## How can I edit this code?
+Whether you want to donate money, food, clothing, or volunteer your time, **ShareJoy** makes it easy to find the right cause near you.  
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## **Getting Started**  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c9a7b2ad-b24e-4c8f-bb7d-e5fc68032edd) and start prompting.
+### **Clone & Run Locally**  
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+If you’d like to work on this project locally, follow these steps:  
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Step 2: Navigate to the project directory
+cd sharejoy
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## **Project Stack**  
 
-**Use GitHub Codespaces**
+This project is built using:  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- **Next.js** – Fast and scalable React framework  
+- **TypeScript** – Type-safe development  
+- **Tailwind CSS** – Modern styling with utility classes  
+- **shadcn-ui** – Accessible and elegant UI components  
+- **Google Maps API** – Interactive maps for locating nearby donation centers  
 
-## What technologies are used for this project?
+---
 
-This project is built with .
+## **Key Features**  
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+✅ **Find & Support Nearby Homes** – Search for children's homes and shelters near you  
+✅ **Multiple Donation Options** – Donate money, food, clothes, and more  
+✅ **MPESA Donations** – Send money easily through MPESA integration  
+✅ **AI-Powered Search** – Get personalized recommendations on where to help  
+✅ **Dark Mode & Light Mode** – Customize your viewing experience  
+✅ **Smart Navigation Chatbot** – An interactive AI guide to assist users  
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/c9a7b2ad-b24e-4c8f-bb7d-e5fc68032edd) and click on Share -> Publish.
+## **How to Contribute**  
 
-## I want to use a custom domain - is that possible?
+Interested in contributing? Feel free to **fork this repository**, make your changes, and submit a pull request!  
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+---
+
+## **Deployment**  
+
+To deploy this project, you can use **Vercel, Netlify, or GitHub Pages**. If you need help setting up deployment, check out:  
+
+- [Vercel Deployment Guide](https://vercel.com/docs)  
+- [Netlify Documentation](https://docs.netlify.com/)  
+
+---
+
+## **Connect & Support**  
+
+If you have any questions, suggestions, or would like to support this project, feel free to reach out. Let's make **giving back** easier and more accessible for everyone! ❤️  
